@@ -3,7 +3,7 @@ import threading
 import socket
 
 # Enter target, port, and fake id here (you will send requests using the fake id)
-# I have added samples, but chance those values
+# I have added samples, but change those values
 target = "172.31.198.130"
 port = 80
 fake_id = "192.168.45.128"
