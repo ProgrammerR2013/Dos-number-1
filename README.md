@@ -1,4 +1,6 @@
 # Dos-number-1
+EDUCATIONAL PURPOSES ONLY
+
 Just a normal Dos.
 
 In a Dos, hackers flood a particular webpage, IP Address or whatever they want to, so that they can jam that server.
